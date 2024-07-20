@@ -1,4 +1,4 @@
-# AWS SAGEMAKER QQP
+# AWS SAGEMAKER QUIEN ES QUIEN PRECIOS
 
 In this Python project with AWS, I show a solution to the need for exploratory data analysis (EDA) on the available information from "Quién es Quién en los Precios" by the Government of Mexico. This is a database that collects and monitors the prices of various products sold by large retailers, supermarkets, and small establishments.
 
