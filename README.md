@@ -51,4 +51,4 @@ terraform apply deploy
 ```
 ## Presentation
 
-The presentation can be accessed [aqui](https://drive.google.com/drive/folders/1CdghLlAUEsboDbKWdL4oCZGUmIoalfOZ?usp=sharing)
+The presentation can be accessed [here](https://drive.google.com/drive/folders/1CdghLlAUEsboDbKWdL4oCZGUmIoalfOZ?usp=sharing)
