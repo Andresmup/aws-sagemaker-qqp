@@ -49,6 +49,6 @@ terreform init
 terraform plan --out deploy --var-file values.tfvars
 terraform apply deploy
 ```
-## Presentation
+## PRESENTATION
 
-The presentation can be accessed [here](https://drive.google.com/drive/folders/1CdghLlAUEsboDbKWdL4oCZGUmIoalfOZ?usp=sharing)
+The presentation can be accessed [here](https://docs.google.com/presentation/d/1p9502fxMIWnzpR_mXQsdn3Nu4U2iVL6kvvkFvysPZ2w)
