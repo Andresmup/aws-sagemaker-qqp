@@ -29,7 +29,7 @@ In AWS, the SageMaker service allows the execution of Jupyter Notebooks, which r
 
 ### GitHub
 
-Having version-controlled code is important, so GitHub is used for this purpose. This allows for version control of the code within the SageMaker Notebook. **Para realizar un push de Github desde la instancia con Sagemaker es recomendable utilizar un Personal Access Token (PAT) y no la contraseña.
+Having version-controlled code is important, so GitHub is used for this purpose. This allows for version control of the code within the SageMaker Notebook. To push to GitHub from the SageMaker instance, it is recommended to use a Personal Access Token (PAT) instead of a password.
 
 ### Terraform
 
